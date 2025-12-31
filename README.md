@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![Qiita](https://img.shields.io/badge/📖_もっと見る-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/YOUR_QIITA_USERNAME)
+[![Qiita](https://img.shields.io/badge/📖_もっと見る-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/monyone)
 
 </div>
 
