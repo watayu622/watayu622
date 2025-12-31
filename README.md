@@ -17,7 +17,7 @@
 
 | リポジトリ | 説明 |
 |:--|:--|
-| [**リポジトリ名1**](https://github.com/watayu622/horse-jump-game)) | 一富士ニ鷹三茄子を飛び越えるWebゲーム |
+| [**horse-jump-game**](https://github.com/watayu622/horse-jump-game) | 一富士ニ鷹三茄子を飛び越えるWebゲーム |
 
 ---
 
