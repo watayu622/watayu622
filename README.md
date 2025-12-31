@@ -17,7 +17,7 @@
 
 | リポジトリ | 説明 |
 |:--|:--|
-| [**リポジトリ名1**](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1) | ここに簡単な説明を書く |
+| [**リポジトリ名1**](https://github.com/watayu622/horse-jump-game)) | 一富士ニ鷹三茄子を飛び越えるWebゲーム |
 
 ---
 
