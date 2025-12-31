@@ -35,23 +35,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=ja"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&locale=ja"/>
-  
-</div>
-
----
-
 ## 🔗 Links
 
 <div align="center">
 
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/YOUR_QIITA_USERNAME)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/monyone)
 
 </div>
 
