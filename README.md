@@ -25,7 +25,7 @@
 
 | 記事タイトル | 内容 |
 |:--|:--|
-| [**Google Colab で音声コーパス録音ツールを作った**](https://github.com/watayu622/SourceSoundMaker](https://qiita.com/monyone/private/81b6a4b27fd37a48a135) | 自分の声でコーパスをつくる録音キットについての記事 |
+| [**Google Colab で音声コーパス録音ツールを作った**](https://qiita.com/monyone/private/81b6a4b27fd37a48a135) | 自分の声でコーパスをつくる録音キットについての記事 |
 
 
 
