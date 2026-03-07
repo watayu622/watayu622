@@ -18,7 +18,7 @@
 | リポジトリ | 説明 |
 |:--|:--|
 | [**horse-jump-game**](https://github.com/watayu622/horse-jump-game) | 一富士ニ鷹三茄子を飛び越えるWebゲーム |
-
+| [**SourceSoundMaker**](https://github.com/watayu622/SourceSoundMaker) | 自分の声でコーパスをつくる録音キット |
 ---
 
 ## 📝 Qiita 記事
